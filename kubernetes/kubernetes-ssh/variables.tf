@@ -15,8 +15,8 @@ variable "resource-informations" {
     id =1
     username ="root"
     container-name= "roberto-presentation-container-a"
-    container-image= "robertolandry/hellouser"
-    container-port = 22
+    container-image= "robertolandry/ssh-port4355"
+    container-port = 4355
     },
     {
     pod-name = "roberto-presentation-pod-b"
@@ -24,8 +24,8 @@ variable "resource-informations" {
     id =2
     username ="user1"
     container-name= "roberto-presentation-container-b"
-    container-image= "robertolandry/hellouser"
-    container-port = 22
+    container-image= "robertolandry/ssh-port4355"
+    container-port = 4355
     },
     {
     pod-name = "roberto-presentation-pod-c"
@@ -33,8 +33,8 @@ variable "resource-informations" {
     id =3
     username ="user2"
     container-name= "roberto-presentation-container-c"
-    container-image= "robertolandry/hellouser"
-    container-port = 22
+    container-image= "robertolandry/ssh-port4355"
+    container-port = 4355
     } ]
     
 

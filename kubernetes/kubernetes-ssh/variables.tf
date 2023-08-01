@@ -21,7 +21,7 @@ variable "resource-informations" {
     {
     pod-name = "roberto-presentation-pod-b"
     namespace ="rashid"
-    id =2
+    id =1
     username ="user1"
     container-name= "roberto-presentation-container-b"
     container-image= "robertolandry/ssh-port4355"
@@ -30,7 +30,7 @@ variable "resource-informations" {
     {
     pod-name = "roberto-presentation-pod-c"
     namespace ="rashid"
-    id =3
+    id =1
     username ="user2"
     container-name= "roberto-presentation-container-c"
     container-image= "robertolandry/ssh-port4355"

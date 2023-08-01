@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"module-kubernetes-ssh","Source":"./kubernetes-ssh","Dir":"kubernetes-ssh"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"module-kubernetes-ssh","Source":"./kubernetes-ssh","Dir":"kubernetes-ssh"},{"Key":"module-service-nodeport","Source":"./nodeportservice","Dir":"nodeportservice"}]}
